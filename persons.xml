@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+
+	<person>
+		<name>kalision</name>
+		<sex>男</sex>
+	</person>
+
+	<person>
+		<name>kity</name>
+		<sex>女</sex>
+	</person>
+
+	<person>
+		<name>qizai</name>
+		<sex>女</sex>
+	</person>
+
+</persons>  
